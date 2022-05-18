@@ -32,14 +32,12 @@ tqdm>=4.41.0
 
 ## 部分截图
 
-![QQ图片20220517225629](https://gitee.com/shuliang123/markdown-tip/raw/master/QQ%E5%9B%BE%E7%89%8720220517225629-16528709430015.png)
+![333](https://gitee.com/shuliang123/markdown-tip/raw/master/333.png)
 
 
 
-
-
-![QQ图片20220517225638](https://gitee.com/shuliang123/markdown-tip/raw/master/QQ%E5%9B%BE%E7%89%8720220517225638-16528708072273.png)
+![566](https://gitee.com/shuliang123/markdown-tip/raw/master/566.png)
 
 
 
-![QQ图片20220517225643](https://gitee.com/shuliang123/markdown-tip/raw/master/QQ%E5%9B%BE%E7%89%8720220517225643-16528708160464.png)
+![3](https://gitee.com/shuliang123/markdown-tip/raw/master/2111.png)
