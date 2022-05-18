@@ -32,12 +32,11 @@ tqdm>=4.41.0
 
 ## 部分截图
 
-![333](https://gitee.com/shuliang123/markdown-tip/raw/master/333.png)
+![333](https://raw.githubusercontent.com/shu-liang123/img/main/img/333-16528718178201.png)
 
 
 
-![566](https://gitee.com/shuliang123/markdown-tip/raw/master/566.png)
+![566](https://raw.githubusercontent.com/shu-liang123/img/main/img/566.png)
 
+![2111](https://raw.githubusercontent.com/shu-liang123/img/main/img/2111.png)
 
-
-![3](https://gitee.com/shuliang123/markdown-tip/raw/master/2111.png)
